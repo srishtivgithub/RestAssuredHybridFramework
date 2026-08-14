@@ -18,6 +18,8 @@ public class BaseTest {
 		public final static String GOREST_ENDPOINT="/public/v2/users/";
 		public final static String HTTPBIN_ENDPOINT="/get";
 		public final static String AMADEUS_TOKEN_ENDPOINT="/v1/security/oauth2/token";
+		public final static String FAKERSTORE_ENDPOINT="/products/";
+		public final static String GOREST_ENDPOINT_XML="/public/v2/users.xml";
 		public final static String AMADEUS_FLIGHT_BOOK_ENDPOINT="/v2/reference-data/urls/checkin-links";
 
 	public ConfigurationManager cm;
